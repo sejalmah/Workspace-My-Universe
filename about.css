@@ -1,0 +1,115 @@
+body{
+	background-image: url('https://i.pinimg.com/originals/21/5c/7f/215c7fdca6033092baa04b35c17466bd.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+	
+}
+h1{
+	color:white;
+	text-align:center;
+	border:5px solid black;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-width:2px;
+    border-height:2px;
+    margin-left: 35%;
+    margin-right: 35%;
+	text-shadow: 3px 2px gray;
+ }
+ h2{
+	color:white;
+	text-align:center;
+	border:5px solid black;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-width:2px;
+    border-height:2px;
+    margin-left: 35%;
+    margin-right: 35%;
+	text-shadow: 3px 2px gray;
+ }
+ p{
+	color:rgb(196, 240, 202);
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:5px;
+    margin-left: 2%;
+    margin-right: 5%;
+	font-size: 27px;
+	letter-spacing: 1px;
+	font-weight: 800px;
+
+ }
+ p1{
+	color: rgb(210, 232, 212);
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:5px;
+    margin-left: 2%;
+    margin-right: 5%;
+	font-size: 27px;
+	letter-spacing: 1px;
+	font-weight: 800px;
+
+ }
+ ul{
+	color:rgb(210, 232, 212);
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:5px;
+    margin-left: 2%;
+    margin-right: 5%;
+	font-size: 27px;
+	letter-spacing: 1px;
+	font-weight: 800px;
+
+ }
+button1 {
+	background-color: transparent; 
+	background-image: linear-gradient(to left, rgb(27, 27, 225), rgb(238, 41, 41), yellow, rgb(27, 27, 225), rgb(13, 174, 13), rgb(238, 41, 41));
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	border-radius:30px 30px 30px 30px;
+	padding: 7px 10px;
+	margin-left:5%;
+	margin-right:5%;
+	text-align: center;
+	text-decoration: rgb(226, 224, 220);
+	display: inline-block;
+	font-size: 16px;
+	tab-size: 2px;
+  }
+  button2 {
+	background-color: rgb(226, 26, 26);
+	border: black;
+	color: white;
+	border-radius:30px 30px 30px 30px;
+	padding: 7px 10px;
+	margin-left:5%;
+	margin-right:5%;
+	text-align: center;
+	text-decoration: rgb(226, 224, 220);
+	display: inline-block;
+	font-size: 16px;
+	tab-size: 2px;
+  }
+  button3 {
+	background-color: rgb(27, 89, 202);
+	border: black;
+	color: white;
+	border-radius:30px 30px 30px 30px;
+	padding: 7px 10px;
+	margin-left:5%;
+	margin-right:5%;
+	text-align: center;
+	text-decoration: rgb(226, 224, 220);
+	display: inline-block;
+	font-size: 16px;
+	tab-size: 2px;
+  }
+h3 {
+	color:darkblue;
+	font-size: 30px;
+}
