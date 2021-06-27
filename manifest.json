@@ -1,0 +1,22 @@
+{
+    "name":"Work Space",
+    "short_name":"My Universe",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#5900b3",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"This is a Work Space",
+    "icons":[
+    {
+    "src":"style/images/icon-192x192.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"style/images/icon-512x512.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
