@@ -1,0 +1,67 @@
+body{
+	background-image: url('../images/spaceproject.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+h1{
+	color:white;
+	text-align:center;
+	border:5px solid black;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-width:2px;
+    border-height:2px;
+    margin-left: 35%;
+    margin-right: 35%;
+ }
+
+h3{
+	text-align:center;
+	border:2px solid white;
+	padding:4px;
+}
+
+p{
+	color:white;
+	text-align:center;
+	border-bottom:2px solid black;
+	margin-right:25%;
+	margin-left:25%;
+}
+a{
+	color:black;
+	font-size:15px;
+	font-family:unset;
+	text-align:center;
+	border: 3px solid lightblue;
+	border-radius:15px 15px 15px 15px;
+	padding:60px;
+	margin-left:5%;
+	margin-right:5%;
+	alignment:margin-right;
+}
+
+a#xyz{
+	color:black;
+	border: 1px solid white;
+	border-radius:30px 30px 30px 30px;
+	padding:20px;
+	margin-left:8.5%;
+	margin-right:5%;
+}
+
+a#about{
+	color:whitw;
+	border: 1px solid black;
+	border-radius:70px 70px 70px 70px;
+	padding:5px;
+}
+hr{
+	border-top:2px solid black;
+}
+
+a:hover{
+	background-color:rgb(190,190,190);
+}
